@@ -2,7 +2,7 @@ Hello!
 Detailed instructions to tasks are not shown here as the respndents know them already. 
 At this point would like the tasks to be "not so visible" for everyone too. 
 
-List of finishted tasks: 
+List of finishted tasks:  
 Main task
 Bonus task 1.  
 Bonus task 2. <- is located inside the MainTaskk.java  
