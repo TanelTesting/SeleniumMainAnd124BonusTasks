@@ -67,7 +67,6 @@ public class BonusTask4 {
 				
 				driver.close(); 
 		
-		//  /html/body/main/section[4]/div/h2
 		
 		
 		

@@ -34,7 +34,7 @@ public class MainTaskk {
 		//accept cookies
 		driver.findElement(By.xpath("/html/body/div[1]/div/div/div[2]/div/a[1]")).click();   
 		
-		Thread.sleep(3000); 
+		Thread.sleep(3000); //Disclaimer: I think waits could be probably be done better, but this time I'd just like to get back to bed quickly because of  the illness
 		
 		//Run the JavaScript code for scrolling 
 		JavascriptExecutor jse = (JavascriptExecutor) driver;  
@@ -55,12 +55,12 @@ public class MainTaskk {
 				pw.close(); //close saves the .txt file 				 
 				//		-=BONUS TASK 2. ENDS=- 
 			} else {
-			System.out.println("Main task failed: element is not displayed"); 
+			System.out.println(); 
 			}
 		}
 		
-		//First make sure element is enabled and ...THEN ensure it's displayed 
-		//driver.findElement(By.xpath("/html/body/main/section[4]/div/h2")).isEnabled();
+		
+		//driver.findElement(By.xpath("/html/body/main/section[4]/div/h2")).isEnabled(); //First make sure element is enabled and ...THEN ensure it's displayed. Probably these are not needed at the moment 
 		//driver.findElement(By.xpath("/html/body/main/section[4]/div/h2")).isDisplayed(); 
 		
 		//close the window 
