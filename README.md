@@ -1,6 +1,6 @@
 Hello! 
 Detailed instructions to tasks are not shown here as the respndents know them already. 
-At this point would like the tasks not to be "so visible" for everyone too. 
+At this point would like the tasks to be "not so visible" for everyone too. 
 
 List of finishted tasks: 
 Main task
