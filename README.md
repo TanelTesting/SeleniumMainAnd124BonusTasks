@@ -14,6 +14,7 @@ Bonus Tasks:
 
 
 List of finishted tasks:  
+
 Main task  
 Bonus task 1.  
 Bonus task 2. <- is located inside the MainTaskk.java  
